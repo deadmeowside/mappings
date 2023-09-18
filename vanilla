@@ -1,1 +1,256 @@
-gghgh
+{
+    "EntityEqual": {
+        "methodName": "equals",
+        "signature": "(Ljava/lang/Object;)Z"
+    },
+    "EyeHeight": {
+        "methodName": "ce",
+        "signature": "()F"
+    },
+    "ITextComponent": {
+        "className": "nr"
+    },
+    "Keybinding": {
+        "className": "djw"
+    },
+    "RayTraceResult_pick": {
+        "methodName": "a",
+        "signature": "(DFZ)Ldcl;"
+    },
+    "attackEntity": {
+        "methodName": "a",
+        "signature": "(Lbfw;Laqa;)V"
+    },
+    "clickMouse": {
+        "methodName": "aL",
+        "signature": "()V"
+    },
+    "clientPlayerEntity": {
+        "className": "dzm"
+    },
+    "clientWorldClass": {
+        "className": "dwt"
+    },
+    "drawString": {
+        "methodName": "b",
+        "signature": "(Ldfm;Ljava/lang/String;FFI)I"
+    },
+    "entity": {
+        "className": "aqa"
+    },
+    "fallDistance": {
+        "fieldName": "C",
+        "signature": "F"
+    },
+    "fontRenderer": {
+        "className": "dku",
+        "fieldName": "g",
+        "signature": "Ldku;"
+    },
+    "gameSettings": {
+        "className": "dkd",
+        "fieldName": "k",
+        "signature": "Ldkd;"
+    },
+    "getCooledAttackStrength": {
+        "methodName": "u",
+        "signature": "(F)F"
+    },
+    "getDistance": {
+        "methodName": "g",
+        "signature": "(Laqa;)F"
+    },
+    "getEntityPosX": {
+        "methodName": "cD",
+        "signature": "()D"
+    },
+    "getEntityPosY": {
+        "methodName": "cE",
+        "signature": "()D"
+    },
+    "getEntityPosZ": {
+        "methodName": "cH",
+        "signature": "()D"
+    },
+    "getHealth": {
+        "methodName": "dk",
+        "signature": "()F"
+    },
+    "getName": {
+        "methodName": "R",
+        "signature": "()Lnr;"
+    },
+    "getPlayers": {
+        "methodName": "x",
+        "signature": "()Ljava/util/List;"
+    },
+    "getRenderPartialTicks": {
+        "methodName": "aj",
+        "signature": "()F"
+    },
+    "getUnformattedComponentText": {
+        "methodName": "a",
+        "signature": "()Ljava/lang/String;"
+    },
+    "hitresult": {
+        "className": "dcl",
+        "fieldName": "v",
+        "methodName": "c",
+        "methodSignature": "()Ldcl$a;",
+        "signature": "Ldcl;"
+    },
+    "isAlive": {
+        "methodName": "aX",
+        "signature": "()Z"
+    },
+    "isHandActive": {
+        "methodName": "dW",
+        "signature": "()Z"
+    },
+    "isMoveForward": {
+        "methodName": "b",
+        "signature": "()Z"
+    },
+    "isOnGround": {
+        "methodName": "ao",
+        "signature": "()Z"
+    },
+    "isPressed": {
+        "methodName": "f",
+        "signature": "()Z"
+    },
+    "isSneaking": {
+        "methodName": "bu",
+        "signature": "()Z"
+    },
+    "isSprinting": {
+        "methodName": "bA",
+        "signature": "()Z"
+    },
+    "jumpTicks": {
+        "fieldName": "bv",
+        "signature": "I"
+    },
+    "keybindAttack": {
+        "fieldName": "aq",
+        "signature": "Ldjw;"
+    },
+    "leftClickCounter": {
+        "fieldName": "w",
+        "signature": "I"
+    },
+    "livingEntity": {
+        "className": "aqm"
+    },
+    "matrixStack": {
+        "className": "dfm"
+    },
+    "minecraft": {
+        "className": "djz",
+        "methodName": "C",
+        "signature": "()Ldjz;"
+    },
+    "moveForward": {
+        "fieldName": "aT",
+        "signature": "F"
+    },
+    "moveStrafing": {
+        "fieldName": "aR",
+        "signature": "F"
+    },
+    "moveVertical": {
+        "fieldName": "aS",
+        "signature": "F"
+    },
+    "movementInput": {
+        "fieldName": "f",
+        "signature": "Ldzk;"
+    },
+    "player": {
+        "methodName": "s",
+        "signature": "Ldzm;"
+    },
+    "playerController": {
+        "className": "dww",
+        "methodName": "q",
+        "signature": "Ldww;"
+    },
+    "playerEntity": {
+        "className": "bfw"
+    },
+    "pointedEntity": {
+        "fieldName": "u",
+        "signature": "Laqa;"
+    },
+    "rayTraceResult": {
+        "className": "dcl",
+        "methodName": "v",
+        "signature": "Ldcl;"
+    },
+    "resetCooldown": {
+        "methodName": "eS",
+        "signature": "()V"
+    },
+    "rightClickDelayTimer": {
+        "fieldName": "aI",
+        "signature": "I"
+    },
+    "rotationPitch": {
+        "fieldName": "q",
+        "signature": "F"
+    },
+    "rotationYaw": {
+        "fieldName": "p",
+        "signature": "F"
+    },
+    "sendChatMessage": {
+        "methodName": "f",
+        "signature": "(Ljava/lang/String;)V"
+    },
+    "setGlowing": {
+        "methodName": "i",
+        "signature": "(Z)V"
+    },
+    "setMotion": {
+        "methodName": "f",
+        "signature": "(Ldcn;)V"
+    },
+    "setOnGround": {
+        "methodName": "c",
+        "signature": "(Z)V"
+    },
+    "setSprinting": {
+        "methodName": "g",
+        "signature": "(Z)V"
+    },
+    "swingArm": {
+        "methodName": "a",
+        "signature": "(Laot;)V"
+    },
+    "tickExisted": {
+        "fieldName": "K",
+        "signature": "I"
+    },
+    "timer": {
+        "className": "dkk",
+        "methodName": "P",
+        "signature": "Ldkk;"
+    },
+    "timerTickLength": {
+        "methodName": "d",
+        "signature": "F"
+    },
+    "vec3d": {
+        "className": "dcn",
+        "fieldName": "ak",
+        "fieldX": "b",
+        "fieldY": "c",
+        "fieldZ": "d",
+        "signature": "Ldcn;",
+        "signaturePos": "D"
+    },
+    "world": {
+        "methodName": "r",
+        "signature": "Ldwt;"
+    }
+}
