@@ -81,8 +81,8 @@
         "signature": "()Lnr;"
     },
     "getPlayers": {
-        "methodName": "x",
-        "signature": "()Ljava/util/List;"
+        "fieldName": "z",
+        "signature": "Ljava/util/List;"
     },
     "getRenderPartialTicks": {
         "methodName": "aj",
