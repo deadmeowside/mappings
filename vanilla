@@ -124,7 +124,7 @@
         "signature": "()Z"
     },
     "isSprinting": {
-        "methodName": "bA",
+        "methodName": "bu",
         "signature": "()Z"
     },
     "jumpTicks": {
