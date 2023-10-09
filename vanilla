@@ -20,4 +20,15 @@
         "fieldName": "s",
         "signature": "Lfdj;"
     },
+    "HitResult": {
+        "className": "edc"
+    },
+    "HitResultObj": {
+        "fieldName": "w",
+        "signature": "Ledc;"
+    },
+    "StartAttack": {
+        "methodName": "bh",
+        "signature": "()Z"
+    },
 }
