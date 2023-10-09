@@ -3,7 +3,21 @@
         "className": "emh"
     },
     "MinecraftObj": {
-        "fieldName": "F"
+        "fieldName": "F",
         "signature": "Lemh;"
+    },
+    "LocalPlayer": {
+        "className": "fhk"
+    },
+    "LocalPlayerObj": {
+        "fieldName": "t",
+        "signature": "Lfhk;"
+    },
+    "ClientLevel": {
+        "className": "fdj"
+    },
+    "ClientLevelObj": {
+        "fieldName": "s",
+        "signature": "Lfdj;"
     },
 }
