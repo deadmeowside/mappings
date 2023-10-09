@@ -1,9 +1,9 @@
 {
     "Minecraft": {
-        "className": "equals"
+        "className": "emh"
     },
-    "Minecraft": {
-        "fieldName": "equals"
-        "signature": "equals"
+    "MinecraftObj": {
+        "fieldName": "F"
+        "signature": "Lemh;"
     },
 }
